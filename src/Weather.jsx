@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import "./Weather.css"
 
 const api = {
-    key: "72dc8e7ade655b58dd0e5a2dd084e2a2",
+    key: "2b851c3ae49cb299c9a605b10285b879gg",
     base: "https://api.openweathermap.org/data/2.5/"
 }
 
